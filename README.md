@@ -28,4 +28,4 @@ python saver.py "https://vt.tiktok.com/ZS12345/" -o "D:\Media\Archived"
 
 If you want to silence the console output and just get the file path on success, use the `--quiet` flag.
 
-<!-- refreshed: 2026-09-21 -->
+<!-- refreshed: 2026-09-22 -->
